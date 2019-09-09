@@ -2,3 +2,11 @@
 apply plugin:'java'
 apply plugin:'application'
 mainClassName = "MyFirstProgram"
+
+repositories {
+    maven {url "../maven-repo"
+    }
+}
+
+
+
