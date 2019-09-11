@@ -14,7 +14,7 @@ public class MyFirstProgram {
     }
 
     public static double area(double l){
-        return l*l;
+        return 2*2;
     }
 }
 
